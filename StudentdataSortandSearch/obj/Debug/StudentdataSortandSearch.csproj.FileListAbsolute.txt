@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Day 11\StudentdataSortandSearch\StudentdataSortandSearch\bin\Debug\StudentdataSortandSearch.exe.config
+C:\Mphasis dot net\Day 11\StudentdataSortandSearch\StudentdataSortandSearch\bin\Debug\StudentdataSortandSearch.exe
+C:\Mphasis dot net\Day 11\StudentdataSortandSearch\StudentdataSortandSearch\bin\Debug\StudentdataSortandSearch.pdb
+C:\Mphasis dot net\Day 11\StudentdataSortandSearch\StudentdataSortandSearch\obj\Debug\StudentdataSortandSearch.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 11\StudentdataSortandSearch\StudentdataSortandSearch\obj\Debug\StudentdataSortandSearch.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 11\StudentdataSortandSearch\StudentdataSortandSearch\obj\Debug\StudentdataSortandSearch.exe
+C:\Mphasis dot net\Day 11\StudentdataSortandSearch\StudentdataSortandSearch\obj\Debug\StudentdataSortandSearch.pdb

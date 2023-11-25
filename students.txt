@@ -1,0 +1,14 @@
+Rainbow School
+Name   Class
+Nirmal XII
+Raj    X
+Jai    XI
+Akash  XII
+Sam    IX
+Leo    X 
+Kavya  XII
+Preeti X
+Rakesh XI
+Saran  XII
+Pravin IX
+Antony X 
